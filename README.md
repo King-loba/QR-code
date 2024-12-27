@@ -18,7 +18,7 @@ A simple React-based QR code scanner that allows users to scan QR codes using th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-scanner.git
+   git clone https://github.com/yourusername/QR-code.git
    ```
 2. Navigate to the project directory:
    ```bash
