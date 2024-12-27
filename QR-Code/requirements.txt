@@ -1,0 +1,3 @@
+npx create-react-app qr-code-scanner
+cd qr-code-scanner
+npm install qr-scanner
